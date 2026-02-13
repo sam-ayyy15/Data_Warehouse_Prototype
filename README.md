@@ -1,9 +1,9 @@
-# Data Warehouse and Analytics Project
+# Data Warehouse for ERP/CRM Data
 
 This project demonstrates a comprehensive data warehousing for erp/crm data from clients.
 
 ---
-## 🏗️ Data Architecture
+##  Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 ![Data Architecture](docs/data_architecture.png)
@@ -13,7 +13,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
-## 📖 Project Overview
+##  Project Overview
 
 This project involves:
 
@@ -23,7 +23,7 @@ This project involves:
 
 ---
 
-## 🚀 Project Requirements
+## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -39,7 +39,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ```
 data-warehouse-project/
 │
